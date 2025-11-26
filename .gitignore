@@ -1,0 +1,8 @@
+/venv/
+*.iml
+repo.sh
+/.idea
+04/03_Solutions/console.ns
+*.ns
+/02/00_Demo/app/node_modules/
+/02/00_Demo/app/package-lock.json
